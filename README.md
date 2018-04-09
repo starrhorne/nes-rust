@@ -188,3 +188,9 @@ Specifically, blargg's test roms are invaluable for anyone who wants to make sur
 
 In addition, these emulator codebases were very helpful sanity checks:
 [AndreaOrru/laiNES](https://github.com/AndreaOrru/LaiNES) and [fogleman/nes](https://github.com/fogleman/nes)
+
+## Copyright & License
+
+Copyright 2018 Starr Horne. See LICENSE file for license. 
+
+
