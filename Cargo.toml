@@ -1,0 +1,17 @@
+[package]
+name = "nes"
+version = "0.1.0"
+authors = ["Starr Horne <starr@chromahq.com>"]
+
+[dependencies]
+bitfield = "0.12.0"
+itertools = "0.6.1"
+libretro-backend = "0.2"
+rand = "0.3"
+time = "0.1"
+
+[lib]
+crate-type = ["cdylib"]
+
+[features]
+log = []
